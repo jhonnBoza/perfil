@@ -9,12 +9,11 @@
 ###  Holam, soy **Jhon Boza**
 #### Estudiante de Tecsup · Junior Developer · Siempre aprendiendo
 
-[![GitHub](https://img.shields.io/badge/GitHub-jhonnBoza-181717?style=for-the-badge&logo=github)](https://github.com/jhonnBoza)
-[![Instagram](https://img.shields.io/badge/Instagram-jhnnz.7-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/jhnnz.7/)
-[![Facebook](https://img.shields.io/badge/Facebook-jhon.bz.52-1877F2?style=for-the-badge&logo=facebook&logoColor=white)](https://www.facebook.com/jhon.bz.52/)
-[![TikTok](https://img.shields.io/badge/TikTok-jhnnvxz__1-000000?style=for-the-badge&logo=tiktok&logoColor=white)](https://www.tiktok.com/@jhnnvxz_1)
-[![Gmail](https://img.shields.io/badge/Gmail-gurutechstore0@gmail.com-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:gurutechstore0@gmail.com)
-[![Tecsup](https://img.shields.io/badge/Tecsup-jhon.boza@tecsup.edu.pe-0072ff?style=for-the-badge&logo=academia&logoColor=white)](mailto:jhon.boza@tecsup.edu.pe)
+[![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/jhonnBoza)
+[![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/jhnnz.7/)
+[![Facebook](https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white)](https://www.facebook.com/jhon.bz.52/)
+[![TikTok](https://img.shields.io/badge/TikTok-000000?style=for-the-badge&logo=tiktok&logoColor=white)](https://www.tiktok.com/@jhnnvxz_1)
+[![Email](https://img.shields.io/badge/Email-0072ff?style=for-the-badge&logo=gmail&logoColor=white)](mailto:jhon.boza@tecsup.edu.pe)
 
 </div>
 
@@ -74,14 +73,14 @@ const jhon = {
 
 <div align="center">
 
-<img height="170" src="https://github-readme-stats.vercel.app/api?username=jhonnBoza&show_icons=true&theme=react&hide_border=true&count_private=true&title_color=00c6ff&icon_color=0072ff&text_color=d0eeff&bg_color=0d1117" />
-<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=jhonnBoza&layout=compact&theme=react&hide_border=true&langs_count=8&title_color=00c6ff&text_color=d0eeff&bg_color=0d1117" />
+<img height="170" src="https://github-readme-stats.vercel.app/api?username=jhonnBoza&show_icons=true&hide_border=true&count_private=true&title_color=00c6ff&icon_color=0072ff&text_color=ffffff&bg_color=0d1117" />
+<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=jhonnBoza&layout=compact&hide_border=true&langs_count=8&title_color=00c6ff&text_color=ffffff&bg_color=0d1117" />
 
 </div>
 
 <div align="center">
 
-[![GitHub Streak](https://streak-stats.demolab.com?user=jhonnBoza&theme=react&hide_border=true&ring=0072ff&fire=00c6ff&currStreakLabel=00c6ff)](https://git.io/streak-stats)
+[![GitHub Streak](https://streak-stats.demolab.com?user=jhonnBoza&hide_border=true&background=0d1117&ring=0072ff&fire=00c6ff&currStreakLabel=00c6ff&sideLabels=ffffff&dates=ffffff&currStreakNum=ffffff&sideNums=ffffff)](https://git.io/streak-stats)
 
 </div>
 
