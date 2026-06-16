@@ -6,7 +6,7 @@
 
 <div align="center">
 
-### 👋 Hey, soy **Jhon Boza**
+###  Holam, soy **Jhon Boza**
 #### Estudiante de Tecsup · Junior Developer · Siempre aprendiendo
 
 [![GitHub](https://img.shields.io/badge/GitHub-jhonnBoza-181717?style=for-the-badge&logo=github)](https://github.com/jhonnBoza)
@@ -25,11 +25,11 @@
 ```ts
 const jhon = {
   nombre:     "Jhon Boza",
-  educacion:  "Tecsup 🎓",
-  nivel:      "Junior Developer 🌱",
+  educacion:  "Tecsup",
+  nivel:      "Junior Developer",
   ubicacion:  "Perú 🇵🇪",
   pasion:     "Crear cosas geniales con código",
-  motto:      "Si funciona, no lo toques... o sí 😅"
+  motto:      "Si funciona, no lo toques... o sí"
 };
 ```
 
