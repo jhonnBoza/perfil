@@ -86,19 +86,6 @@ const jhon = {
 
 ---
 
-## 🌐 Proyectos Destacados
-
-| Proyecto | Tech | Descripción |
-|----------|------|-------------|
-| [BosStore](https://github.com/jhonnBoza/BosStore) | TypeScript | E-commerce store |
-| [BiciTec](https://github.com/jhonnBoza/BiciTec) | Laravel | App web con Blade |
-| [BiciTec Oficial](https://github.com/jhonnBoza/BiciTec-oficial) | Kotlin | Versión Android nativa |
-| [STR](https://github.com/jhonnBoza/STR) | Flutter/Dart | App mobile cross-platform |
-| [nefli](https://github.com/jhonnBoza/nefli) | Flutter/Dart | App mobile |
-| [tiendamine](https://github.com/jhonnBoza/tiendamine) | Flutter/Dart | Tienda móvil |
-
----
-
 ## 🎯 En qué estoy enfocado
 
 ```
