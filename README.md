@@ -74,7 +74,7 @@ const jhon = {
 
 <div align="center">
 
-<img height="170" src="https://github-readme-stats.vercel.app/api?username=jhonnBoza&show_icons=true&theme=react&hide_border=true&count_private=true&include_all_commits=true&title_color=00c6ff&icon_color=0072ff&text_color=d0eeff&bg_color=0d1117" />
+<img height="170" src="https://github-readme-stats.vercel.app/api?username=jhonnBoza&show_icons=true&theme=react&hide_border=true&count_private=true&title_color=00c6ff&icon_color=0072ff&text_color=d0eeff&bg_color=0d1117" />
 <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=jhonnBoza&layout=compact&theme=react&hide_border=true&langs_count=8&title_color=00c6ff&text_color=d0eeff&bg_color=0d1117" />
 
 </div>
@@ -113,7 +113,7 @@ const jhon = {
 
 <div align="center">
 
-### 💙 "El código es poesía... que a veces no compila"
+### "El código es poesía... que a veces no compila"
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:00c6ff,100:0072ff&height=120&section=footer" width="100%"/>
 
